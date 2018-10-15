@@ -1,0 +1,1036 @@
+fileFormatVersion: 2
+guid: 756d0a304d412b942a9f9754ea395ae1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CRASH:Head
+    100004: CRASH:HeadBone008Bone001
+    100006: CRASH:HeadBone008Bone001 1
+    100008: CRASH:HeadBone008Bone001 2
+    100010: CRASH:HeadBone008Bone001 3
+    100012: CRASH:HeadBone008Bone001 4
+    100014: CRASH:HeadBone008Bone001Bone001
+    100016: CRASH:HeadBone008Bone001Bone001 1
+    100018: CRASH:HeadBone008Bone001Bone001 2
+    100020: CRASH:HeadBone008Bone001Bone001 3
+    100022: CRASH:HeadBone008Bone001Bone001 4
+    100024: CRASH:Hear0
+    100026: CRASH:Hear1
+    100028: CRASH:Hear2
+    100030: CRASH:Hear3
+    100032: CRASH:Hear4
+    100034: CRASH:Hips
+    100036: CRASH:LCollarbone
+    100038: CRASH:LeftArm
+    100040: CRASH:LeftBrown
+    100042: CRASH:LeftCheek
+    100044: CRASH:LeftEar1
+    100046: CRASH:LeftEar2
+    100048: CRASH:LeftEye
+    100050: CRASH:LeftFoot
+    100052: CRASH:LeftForeArm
+    100054: CRASH:LeftHand
+    100056: CRASH:LeftHandIndex1
+    100058: CRASH:LeftHandIndex2
+    100060: CRASH:LeftHandIndex3
+    100062: CRASH:LeftHandMiddle1
+    100064: CRASH:LeftHandMiddle2
+    100066: CRASH:LeftHandMiddle3
+    100068: CRASH:LeftHandPinky1
+    100070: CRASH:LeftHandPinky2
+    100072: CRASH:LeftHandPinky3
+    100074: CRASH:LeftHandThumb1
+    100076: CRASH:LeftHandThumb2
+    100078: CRASH:LeftHandThumb3
+    100080: CRASH:LeftLeg
+    100082: CRASH:LeftUpLeg
+    100084: CRASH:LLegDigit11
+    100086: CRASH:MouthBottom
+    100088: CRASH:MouthTop
+    100090: CRASH:Neck
+    100092: CRASH:Neck1
+    100094: CRASH:Nose1
+    100096: CRASH:Nose2
+    100098: CRASH:Nose3
+    100100: CRASH:Nose4
+    100102: CRASH:RArmCollarbone
+    100104: CRASH:Reference
+    100106: CRASH:Ribcage
+    100108: CRASH:RightArm
+    100110: CRASH:RightBrown
+    100112: CRASH:RightCheek
+    100114: CRASH:RightEar1
+    100116: CRASH:RightEar2
+    100118: CRASH:RightEye
+    100120: CRASH:RightFoot
+    100122: CRASH:RightForeArm
+    100124: CRASH:RightHand
+    100126: CRASH:RightHandIndex1
+    100128: CRASH:RightHandIndex2
+    100130: CRASH:RightHandIndex3
+    100132: CRASH:RightHandMiddle1
+    100134: CRASH:RightHandMiddle2
+    100136: CRASH:RightHandMiddle3
+    100138: CRASH:RightHandPinky1
+    100140: CRASH:RightHandPinky2
+    100142: CRASH:RightHandPinky3
+    100144: CRASH:RightHandThumb1
+    100146: CRASH:RightHandThumb2
+    100148: CRASH:RightHandThumb3
+    100150: CRASH:RightLeg
+    100152: CRASH:RightUpLeg
+    100154: CRASH:RLegDigit11
+    100156: CRASH:Spine
+    100158: CRASH:Spine1
+    100160: CRASH:Spine2
+    100162: CRASH:Spine3
+    100164: CRASH:Tongue1
+    100166: mesh
+    400000: //RootNode
+    400002: CRASH:Head
+    400004: CRASH:HeadBone008Bone001
+    400006: CRASH:HeadBone008Bone001 1
+    400008: CRASH:HeadBone008Bone001 2
+    400010: CRASH:HeadBone008Bone001 3
+    400012: CRASH:HeadBone008Bone001 4
+    400014: CRASH:HeadBone008Bone001Bone001
+    400016: CRASH:HeadBone008Bone001Bone001 1
+    400018: CRASH:HeadBone008Bone001Bone001 2
+    400020: CRASH:HeadBone008Bone001Bone001 3
+    400022: CRASH:HeadBone008Bone001Bone001 4
+    400024: CRASH:Hear0
+    400026: CRASH:Hear1
+    400028: CRASH:Hear2
+    400030: CRASH:Hear3
+    400032: CRASH:Hear4
+    400034: CRASH:Hips
+    400036: CRASH:LCollarbone
+    400038: CRASH:LeftArm
+    400040: CRASH:LeftBrown
+    400042: CRASH:LeftCheek
+    400044: CRASH:LeftEar1
+    400046: CRASH:LeftEar2
+    400048: CRASH:LeftEye
+    400050: CRASH:LeftFoot
+    400052: CRASH:LeftForeArm
+    400054: CRASH:LeftHand
+    400056: CRASH:LeftHandIndex1
+    400058: CRASH:LeftHandIndex2
+    400060: CRASH:LeftHandIndex3
+    400062: CRASH:LeftHandMiddle1
+    400064: CRASH:LeftHandMiddle2
+    400066: CRASH:LeftHandMiddle3
+    400068: CRASH:LeftHandPinky1
+    400070: CRASH:LeftHandPinky2
+    400072: CRASH:LeftHandPinky3
+    400074: CRASH:LeftHandThumb1
+    400076: CRASH:LeftHandThumb2
+    400078: CRASH:LeftHandThumb3
+    400080: CRASH:LeftLeg
+    400082: CRASH:LeftUpLeg
+    400084: CRASH:LLegDigit11
+    400086: CRASH:MouthBottom
+    400088: CRASH:MouthTop
+    400090: CRASH:Neck
+    400092: CRASH:Neck1
+    400094: CRASH:Nose1
+    400096: CRASH:Nose2
+    400098: CRASH:Nose3
+    400100: CRASH:Nose4
+    400102: CRASH:RArmCollarbone
+    400104: CRASH:Reference
+    400106: CRASH:Ribcage
+    400108: CRASH:RightArm
+    400110: CRASH:RightBrown
+    400112: CRASH:RightCheek
+    400114: CRASH:RightEar1
+    400116: CRASH:RightEar2
+    400118: CRASH:RightEye
+    400120: CRASH:RightFoot
+    400122: CRASH:RightForeArm
+    400124: CRASH:RightHand
+    400126: CRASH:RightHandIndex1
+    400128: CRASH:RightHandIndex2
+    400130: CRASH:RightHandIndex3
+    400132: CRASH:RightHandMiddle1
+    400134: CRASH:RightHandMiddle2
+    400136: CRASH:RightHandMiddle3
+    400138: CRASH:RightHandPinky1
+    400140: CRASH:RightHandPinky2
+    400142: CRASH:RightHandPinky3
+    400144: CRASH:RightHandThumb1
+    400146: CRASH:RightHandThumb2
+    400148: CRASH:RightHandThumb3
+    400150: CRASH:RightLeg
+    400152: CRASH:RightUpLeg
+    400154: CRASH:RLegDigit11
+    400156: CRASH:Spine
+    400158: CRASH:Spine1
+    400160: CRASH:Spine2
+    400162: CRASH:Spine3
+    400164: CRASH:Tongue1
+    400166: mesh
+    4300000: mesh
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - CRASH:Hips
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: CRASH:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RArmCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LLegDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RLegDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:Nose1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CRASH:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Classic Crash(Clone)(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mesh
+      position: {x: 0, y: -.227726936, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Reference
+      position: {x: .0128173828, y: 0, z: -.001953125}
+      rotation: {x: .50000006, y: -.50000006, z: -.49999997, w: .49999997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Hips
+      position: {x: .0128176212, y: 3.78094745, z: -.360431194}
+      rotation: {x: .49912703, y: -.500871539, z: -.499126941, w: .50087148}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Spine
+      position: {x: -.227478027, y: -.0174045861, z: -4.28408384e-08}
+      rotation: {x: 3.2151628e-09, y: 1.2541169e-08, z: .210668474, w: .9775576}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: CRASH:Spine1
+      position: {x: -.655460358, y: 0, z: 0}
+      rotation: {x: 1.62580935e-08, y: -8.33855296e-08, z: -.0397034064, w: .99921155}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: CRASH:Spine2
+      position: {x: -.822039127, y: 1.1920929e-07, z: 9.31322575e-10}
+      rotation: {x: -3.6869988e-08, y: -8.61889049e-09, z: -.40965119, w: .912242234}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Spine3
+      position: {x: -.863347054, y: 2.38418579e-07, z: 9.31322575e-10}
+      rotation: {x: -1.6864238e-08, y: 5.74654564e-08, z: .36573717, w: .930718184}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: CRASH:Ribcage
+      position: {x: -.765236855, y: -1.1920929e-07, z: 0}
+      rotation: {x: -4.54419924e-09, y: -1.32697977e-08, z: -.12630409, w: .99199158}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: CRASH:RArmCollarbone
+      position: {x: .311997414, y: .204411566, z: -.838591814}
+      rotation: {x: -.00290139276, y: -.773053706, z: .157421529, w: .614490032}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:RightArm
+      position: {x: -.537009358, y: 5.96046448e-08, z: 0}
+      rotation: {x: -.108532771, y: .137792826, z: -.139322147, w: .974588692}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: CRASH:RightForeArm
+      position: {x: -1.36838281, y: -1.54972076e-06, z: 0}
+      rotation: {x: -5.58792124e-07, y: 1.59734486e-06, z: -9.03828834e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:RightHand
+      position: {x: -1.72113085, y: -2.32458115e-06, z: 4.76837158e-07}
+      rotation: {x: .686613083, y: 9.50049241e-07, z: 1.83911573e-06, w: .727023005}
+      scale: {x: 1, y: .999999821, z: 1.00000024}
+      transformModified: 1
+    - name: CRASH:RightHandThumb1
+      position: {x: -.125520706, y: -.0939517021, z: -.258150816}
+      rotation: {x: -.0251947828, y: -.440737575, z: -.0142262178, w: .89716959}
+      scale: {x: 1.0000006, y: .999999464, z: 1}
+      transformModified: 1
+    - name: CRASH:RightHandThumb2
+      position: {x: -.359796762, y: 0, z: -9.53674316e-07}
+      rotation: {x: -.0149575667, y: -.00059334113, z: .0395070091, w: .999107182}
+      scale: {x: 1.00000107, y: .999999046, z: 1}
+      transformModified: 1
+    - name: CRASH:RightHandThumb3
+      position: {x: -.239142418, y: -4.76837158e-07, z: -4.76837158e-07}
+      rotation: {x: -.0129956957, y: .0360726491, z: .0392116904, w: .998495042}
+      scale: {x: 1.00000083, y: .999998868, z: 1.00000012}
+      transformModified: 1
+    - name: CRASH:RightHandIndex1
+      position: {x: -1.0850749, y: .0140595436, z: -.327837229}
+      rotation: {x: -.0817698985, y: -.0776193142, z: -.00195051206, w: .993622303}
+      scale: {x: .999999046, y: .999999523, z: 1.00000143}
+      transformModified: 1
+    - name: CRASH:RightHandIndex2
+      position: {x: -.337792397, y: -9.53674316e-07, z: 0}
+      rotation: {x: -.000500192516, y: -.00756858708, z: .0390101634, w: .99921006}
+      scale: {x: .99999994, y: .999998748, z: 1.00000143}
+      transformModified: 1
+    - name: CRASH:RightHandIndex3
+      position: {x: -.259952307, y: -4.76837158e-07, z: -2.38418579e-07}
+      rotation: {x: -.00543400133, y: -.0275061242, z: .0849167258, w: .995993495}
+      scale: {x: 1.00000036, y: .999998331, z: 1.00000131}
+      transformModified: 1
+    - name: CRASH:RightHandMiddle1
+      position: {x: -1.08664274, y: 4.76837158e-07, z: 1.54972076e-06}
+      rotation: {x: .00447265012, y: -.0727253184, z: -.0393925644, w: .996563733}
+      scale: {x: .999999583, y: .999999821, z: 1.00000072}
+      transformModified: 1
+    - name: CRASH:RightHandMiddle2
+      position: {x: -.217988968, y: 4.76837158e-07, z: 2.38418579e-07}
+      rotation: {x: .0291262455, y: .00641003158, z: .0386671536, w: .998807013}
+      scale: {x: .999999642, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: CRASH:RightHandMiddle3
+      position: {x: -.302811623, y: 4.76837158e-07, z: 4.76837158e-07}
+      rotation: {x: -.00607740739, y: .000859718188, z: .0536286309, w: .99854207}
+      scale: {x: .999999404, y: 1.00000012, z: 1.00000048}
+      transformModified: 1
+    - name: CRASH:RightHandPinky1
+      position: {x: -1.07906914, y: 4.76837158e-07, z: .224848032}
+      rotation: {x: .00553861819, y: .0719266981, z: .0366932601, w: .99671942}
+      scale: {x: 1.00000048, y: 1, z: .999999583}
+      transformModified: 1
+    - name: CRASH:RightHandPinky2
+      position: {x: -.262336254, y: 4.76837158e-07, z: 2.68220901e-07}
+      rotation: {x: -.000167121994, y: -.0114668347, z: .0212428123, w: .999708593}
+      scale: {x: 1.00000048, y: 1, z: .999999642}
+      transformModified: 1
+    - name: CRASH:RightHandPinky3
+      position: {x: -.235181808, y: 4.76837158e-07, z: 2.38418579e-07}
+      rotation: {x: 7.63684625e-07, y: 5.6112134e-07, z: -3.2782583e-07, w: 1}
+      scale: {x: 1.00000048, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: CRASH:LCollarbone
+      position: {x: .311997414, y: .204411566, z: .838591814}
+      rotation: {x: .00290207425, y: .773054123, z: .157421157, w: .614489675}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftArm
+      position: {x: -.53700912, y: -1.78813934e-07, z: -4.76837158e-07}
+      rotation: {x: .108531818, y: -.137793139, z: -.139321357, w: .974588931}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: CRASH:LeftForeArm
+      position: {x: -1.36838317, y: 1.54972076e-06, z: 0}
+      rotation: {x: -6.18401657e-07, y: -1.67424503e-06, z: -2.03632271e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftHand
+      position: {x: -1.72113132, y: 1.54972076e-06, z: -4.76837158e-07}
+      rotation: {x: -.686613917, y: -1.73591133e-07, z: 9.8784767e-07, w: .727022231}
+      scale: {x: 1, y: 1.00000024, z: .999999821}
+      transformModified: 1
+    - name: CRASH:LeftHandThumb1
+      position: {x: -.125521183, y: -.093952179, z: .258150816}
+      rotation: {x: .0252104849, y: .4407399, z: -.0142309414, w: .897167921}
+      scale: {x: .999999464, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftHandThumb2
+      position: {x: -.359796405, y: 4.76837158e-07, z: -4.76837158e-07}
+      rotation: {x: .0149575509, y: .000591386226, z: .039509479, w: .999107063}
+      scale: {x: .999999106, y: 1.00000095, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftHandThumb3
+      position: {x: -.239142179, y: 4.76837158e-07, z: -4.76837158e-07}
+      rotation: {x: .0129954638, y: -.0360742807, z: .0392108187, w: .998495042}
+      scale: {x: .999999166, y: 1.00000107, z: .999999821}
+      transformModified: 1
+    - name: CRASH:LeftHandPinky1
+      position: {x: -1.07906818, y: 0, z: -.22484529}
+      rotation: {x: -.0055372566, y: -.0719259009, z: .036693912, w: .99671942}
+      scale: {x: .999999583, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: CRASH:LeftHandPinky2
+      position: {x: -.2623353, y: 0, z: 1.78813934e-07}
+      rotation: {x: .000168449114, y: .0114677604, z: .0212431587, w: .999708593}
+      scale: {x: .999999642, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: CRASH:LeftHandPinky3
+      position: {x: -.235182285, y: -4.76837158e-07, z: 8.94069672e-08}
+      rotation: {x: 6.20260721e-07, y: 3.29688419e-07, z: 1.1175856e-07, w: 1}
+      scale: {x: .999999523, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: CRASH:LeftHandMiddle1
+      position: {x: -1.08664274, y: 0, z: 1.07288361e-06}
+      rotation: {x: -.0289045274, y: .0514222495, z: -.0438072905, w: .997296989}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: CRASH:LeftHandMiddle2
+      position: {x: -.217988968, y: 0, z: 2.38418579e-07}
+      rotation: {x: .00437510805, y: .00320304208, z: .0388921276, w: .999228716}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: CRASH:LeftHandMiddle3
+      position: {x: -.302811623, y: 4.76837158e-07, z: 1.1920929e-07}
+      rotation: {x: .00607874338, y: -.000858752872, z: .0536285155, w: .99854207}
+      scale: {x: .99999994, y: 1.00000048, z: .999999821}
+      transformModified: 1
+    - name: CRASH:LeftHandIndex1
+      position: {x: -1.08507538, y: .0140595436, z: .327839792}
+      rotation: {x: .0817690566, y: .0776235834, z: -.00194976316, w: .993622005}
+      scale: {x: 1.0000006, y: 1.0000006, z: .999998927}
+      transformModified: 1
+    - name: CRASH:LeftHandIndex2
+      position: {x: -.337793827, y: 9.53674316e-07, z: -7.15255737e-07}
+      rotation: {x: .000495650514, y: .00756848138, z: .0390098952, w: .999210119}
+      scale: {x: .999999464, y: 1.00000155, z: .999998987}
+      transformModified: 1
+    - name: CRASH:LeftHandIndex3
+      position: {x: -.259952545, y: 4.76837158e-07, z: -2.38418579e-07}
+      rotation: {x: .00542906672, y: .0275055133, z: .0849156901, w: .995993614}
+      scale: {x: .999998927, y: 1.00000191, z: .999999166}
+      transformModified: 1
+    - name: CRASH:Neck
+      position: {x: -.0039525032, y: -.0174044967, z: -3.44589353e-08}
+      rotation: {x: -8.14454282e-09, y: 1.19024914e-08, z: -.224879429, w: .974386632}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Neck1
+      position: {x: -.448893905, y: -4.76837158e-07, z: 9.31322575e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Head
+      position: {x: -.448893666, y: 0, z: 0}
+      rotation: {x: -1.85896542e-14, y: 9.72289413e-08, z: .643918335, w: .765094221}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Nose1
+      position: {x: .171845913, y: .576586068, z: .0128177181}
+      rotation: {x: .0312114935, y: .0496906452, z: -.84535116, w: .530978441}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Nose2
+      position: {x: -.555294156, y: 4.76837158e-07, z: 0}
+      rotation: {x: -5.87384932e-11, y: 3.78210974e-09, z: .229885519, w: .973217666}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Nose3
+      position: {x: -.58557415, y: 0, z: 0}
+      rotation: {x: -9.77595643e-11, y: 3.33583983e-09, z: .0870802477, w: .996201336}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: CRASH:Nose4
+      position: {x: -.63969326, y: -.0113286972, z: .000506073236}
+      rotation: {x: -.0181999803, y: -.0141706662, z: .112085178, w: .993430853}
+      scale: {x: .99999994, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: CRASH:RightEye
+      position: {x: -.24525404, y: .877319455, z: -.305185854}
+      rotation: {x: 2.16221397e-21, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftEye
+      position: {x: -.24525404, y: .877319336, z: .376037806}
+      rotation: {x: 2.16221397e-21, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:RightBrown
+      position: {x: -.94229269, y: 1.01872778, z: -.610826612}
+      rotation: {x: -.101925448, y: -.143131301, z: .0733498931, w: .981704891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Tongue1
+      position: {x: .938937187, y: -.750970483, z: 1.07102096e-07}
+      rotation: {x: -7.23226038e-15, y: -1.13090991e-07, z: -.74896735, w: .662606895}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Hear4
+      position: {x: -1.05678177, y: -.778968215, z: -.128387362}
+      rotation: {x: .941241264, y: .309315503, z: -.131682485, w: .0323816612}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001 4
+      position: {x: -.213012218, y: 0, z: 0}
+      rotation: {x: -.0330374651, y: -.0688493252, z: -.309437752, w: .947848439}
+      scale: {x: .999999642, y: 1.0000006, z: .999999821}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001Bone001 4
+      position: {x: -.276758194, y: 0, z: -2.38418579e-07}
+      rotation: {x: -.0451453142, y: .0503032617, z: -.304840773, w: .950001895}
+      scale: {x: .999999702, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: CRASH:Hear3
+      position: {x: -1.2016325, y: -.460441828, z: -.128387377}
+      rotation: {x: .919824898, y: .298102736, z: .239159539, w: -.0886544287}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001 3
+      position: {x: -.372432709, y: 0, z: 0}
+      rotation: {x: -.0352149047, y: -.0361029543, z: -.196860656, w: .979133487}
+      scale: {x: 1.00000024, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001Bone001 3
+      position: {x: -.385370731, y: 4.76837158e-07, z: 0}
+      rotation: {x: .0396216363, y: .0236950982, z: -.329613596, w: .942986488}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: CRASH:Hear1
+      position: {x: -1.2384367, y: .183761314, z: -2.79396772e-08}
+      rotation: {x: .0830126554, y: -.0956984982, z: -.111907765, w: .985610127}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001 1
+      position: {x: -.372432709, y: 1.1920929e-07, z: 0}
+      rotation: {x: -.0406179912, y: -.0401057079, z: -.0778234899, w: .995331705}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001Bone001 1
+      position: {x: -.372432232, y: 0, z: 2.38418579e-07}
+      rotation: {x: -.0154276444, y: -.0345039107, z: -.120897606, w: .991945207}
+      scale: {x: 1.00000024, y: .999999821, z: 1}
+      transformModified: 1
+    - name: CRASH:Hear2
+      position: {x: -1.26961803, y: -.0618230104, z: -.014402722}
+      rotation: {x: .978000224, y: .18979387, z: -.0646834075, w: -.057531599}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001 2
+      position: {x: -.312819481, y: 2.38418579e-07, z: 0}
+      rotation: {x: -.0428225137, y: -.0377426632, z: -.0213686805, w: .998140812}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001Bone001 2
+      position: {x: -.295888424, y: 0, z: 0}
+      rotation: {x: -.0131388437, y: -.0354387052, z: -.185486779, w: .981919646}
+      scale: {x: 1.00000024, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: CRASH:LeftBrown
+      position: {x: -.942292213, y: .877319336, z: .711006045}
+      rotation: {x: .112519167, y: .109980769, z: .0125320284, w: .987464786}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:Hear0
+      position: {x: -1.1220665, y: .579939842, z: -8.7544322e-08}
+      rotation: {x: .164314255, y: .0937438086, z: -.255667835, w: .948075354}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001
+      position: {x: -.372432709, y: 2.38418579e-07, z: 1.1920929e-07}
+      rotation: {x: -.0172280446, y: .13931407, z: -.121513218, w: .982613504}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: CRASH:HeadBone008Bone001Bone001
+      position: {x: -.372432232, y: 4.76837158e-07, z: 0}
+      rotation: {x: -.0137944594, y: -.0933707356, z: -.210784078, w: .972965419}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: CRASH:LeftCheek
+      position: {x: 1.09949875, y: .419323146, z: -.229708195}
+      rotation: {x: -.448844641, y: .622206092, z: .335945845, w: .546386719}
+      scale: {x: 1.00000012, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: CRASH:MouthTop
+      position: {x: .91253233, y: .535817564, z: .0687718391}
+      rotation: {x: .537737489, y: .43913731, z: .554218531, w: .459171683}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: CRASH:MouthBottom
+      position: {x: 1.3139677, y: .379950166, z: .0568480454}
+      rotation: {x: -.48552832, y: .457900882, z: .53881979, w: .514064431}
+      scale: {x: .99999994, y: 1, z: .999999762}
+      transformModified: 1
+    - name: CRASH:RightCheek
+      position: {x: 1.10358763, y: .359606326, z: .346284866}
+      rotation: {x: -.287889421, y: .526649296, z: .471848011, w: .645848036}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: CRASH:LeftEar1
+      position: {x: -.800925732, y: -.122911125, z: .80321002}
+      rotation: {x: -.265396625, y: .482738763, z: .290275007, w: .78247577}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftEar2
+      position: {x: -.431541204, y: 4.76837158e-07, z: -4.76837158e-07}
+      rotation: {x: -3.1362589e-07, y: .111710504, z: -1.44684236e-07, w: .993740797}
+      scale: {x: 1, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: CRASH:RightEar1
+      position: {x: -.767257214, y: .137037382, z: -.89911443}
+      rotation: {x: .320181668, y: -.489508688, z: .321814358, w: .744513571}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:RightEar2
+      position: {x: -.431541204, y: 4.76837158e-07, z: 2.38418579e-07}
+      rotation: {x: -1.60448948e-07, y: -.12994194, z: 1.51801387e-07, w: .991521597}
+      scale: {x: .999999702, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: CRASH:RightUpLeg
+      position: {x: 5.48362732e-06, y: 5.96046448e-08, z: -.615757048}
+      rotation: {x: -.0284491573, y: .995744228, z: .00749940565, w: -.0873377249}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:RightLeg
+      position: {x: -1.56064701, y: -1.20699406e-06, z: -7.15255737e-07}
+      rotation: {x: .0110305166, y: -.0591638684, z: .212798297, w: .975240946}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: CRASH:RightFoot
+      position: {x: -1.78587174, y: 0, z: 0}
+      rotation: {x: .179575637, y: .0329074115, z: -.709204853, w: .68095392}
+      scale: {x: .999999881, y: .999999464, z: 1.0000006}
+      transformModified: 1
+    - name: CRASH:RLegDigit11
+      position: {x: -1.07080734, y: 0, z: -2.38418579e-07}
+      rotation: {x: -.0246843472, y: -.0450963043, z: -.158098221, w: .986084163}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftUpLeg
+      position: {x: 5.24520874e-06, y: 2.98023224e-08, z: .615757048}
+      rotation: {x: -.0277671069, y: .995828271, z: -.0204719547, w: .0844746903}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: CRASH:LeftLeg
+      position: {x: -1.56064653, y: -1.16229057e-06, z: 7.15255737e-07}
+      rotation: {x: -.00387096335, y: .0321322195, z: .226161703, w: .973551989}
+      scale: {x: 1.00000095, y: .999999285, z: 1.00000036}
+      transformModified: 1
+    - name: CRASH:LeftFoot
+      position: {x: -1.81905341, y: 0, z: -1.1920929e-07}
+      rotation: {x: -.210695833, y: -.0191126298, z: -.712590873, w: .668921709}
+      scale: {x: 1.00000012, y: .999999464, z: .999999642}
+      transformModified: 1
+    - name: CRASH:LLegDigit11
+      position: {x: -1.07080722, y: 0, z: 0}
+      rotation: {x: .023732163, y: .0457277931, z: -.178023353, w: .982676685}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: CRASH:Reference
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: f32519e10056825479916835f0e9df4a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bottom_0
+    100002: bottom_1
+    100004: bottom_2
+    100006: bottom_3
+    100008: crate
+    100010: //RootNode
+    100012: middle0_0
+    100014: middle0_1
+    100016: middle0_2
+    100018: middle0_3
+    100020: middle1_0
+    100022: middle1_1
+    100024: middle1_2
+    100026: middle1_3
+    100028: middle2_0
+    100030: middle2_1
+    100032: middle2_2
+    100034: middle2_3
+    100036: rigs
+    100038: top_0
+    100040: top_1
+    100042: top_2
+    100044: top_3
+    400000: bottom_0
+    400002: bottom_1
+    400004: bottom_2
+    400006: bottom_3
+    400008: crate
+    400010: //RootNode
+    400012: middle0_0
+    400014: middle0_1
+    400016: middle0_2
+    400018: middle0_3
+    400020: middle1_0
+    400022: middle1_1
+    400024: middle1_2
+    400026: middle1_3
+    400028: middle2_0
+    400030: middle2_1
+    400032: middle2_2
+    400034: middle2_3
+    400036: rigs
+    400038: top_0
+    400040: top_1
+    400042: top_2
+    400044: top_3
+    2300000: rigs
+    3300000: rigs
+    4300000: crate
+    4300002: rigs
+    7400000: Boucing
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: crate
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Boucing
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: crate
+        weight: 1
+      - path: rigs
+        weight: 1
+      - path: rigs/bottom_0
+        weight: 1
+      - path: rigs/bottom_1
+        weight: 1
+      - path: rigs/bottom_2
+        weight: 1
+      - path: rigs/bottom_3
+        weight: 1
+      - path: rigs/middle0_0
+        weight: 1
+      - path: rigs/middle0_1
+        weight: 1
+      - path: rigs/middle0_2
+        weight: 1
+      - path: rigs/middle0_3
+        weight: 1
+      - path: rigs/middle1_0
+        weight: 1
+      - path: rigs/middle1_1
+        weight: 1
+      - path: rigs/middle1_2
+        weight: 1
+      - path: rigs/middle1_3
+        weight: 1
+      - path: rigs/middle2_0
+        weight: 1
+      - path: rigs/middle2_1
+        weight: 1
+      - path: rigs/middle2_2
+        weight: 1
+      - path: rigs/middle2_3
+        weight: 1
+      - path: rigs/top_0
+        weight: 1
+      - path: rigs/top_1
+        weight: 1
+      - path: rigs/top_2
+        weight: 1
+      - path: rigs/top_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
